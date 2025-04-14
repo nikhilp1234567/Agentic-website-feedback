@@ -1,0 +1,5 @@
+langchain-google-genai
+pydantic
+python-dotenv
+asyncio
+overrides
